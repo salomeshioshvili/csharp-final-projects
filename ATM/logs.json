@@ -1,0 +1,12 @@
+[
+  {
+    "UserId": 1,
+    "Message": "User named salome shioshvili checked balance on 01.12.2025. Balance: 1100 GEL",
+    "Time": "2025-12-01T15:18:03.399921+01:00"
+  },
+  {
+    "UserId": 1,
+    "Message": "User named salome shioshvili withdrew 250 GEL on 01.12.2025. Current balance is 850 GEL",
+    "Time": "2025-12-01T15:18:16.51909+01:00"
+  }
+]
