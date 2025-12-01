@@ -13,7 +13,6 @@ Projects
 
 - `Hangman`
 	- Hangman word-guessing game with XML scoreboard (`hangman_scores.xml`).
-	- Run: `cd Hangman` then `dotnet run`
 
 - `ATM`
 	- Console ATM app with user registration, login, deposit/withdraw, balance check and operation history.
